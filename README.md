@@ -1,7 +1,7 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/shohiebsense"
-  width="600"
-  height="300"
-/>
+<a href="https://github.com/devxb/gitanimals" style="display: block; width: 100%;">
+  <img
+    src="https://render.gitanimals.org/farms/shohiebsense"
+    style="width: 100%; height: auto; display: block;"
+    alt="Gitanimals"
+  />
 </a>
